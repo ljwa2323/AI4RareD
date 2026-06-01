@@ -13,6 +13,7 @@
 | [DeepRare 工具与参考链接](./DeepRare工具与参考链接.md) | DeepRare 论文中集成的 40+ 工具与知识源清单，附官方入口与使用链接 |
 | [OMIM-Orphanet-DECIPHER 详细介绍](./OMIM-Orphanet-DECIPHER详细介绍.md) | 三大罕见病/遗传病核心资源的定位、数据结构与联合使用工作流 |
 | [医学编码体系与互联资源全景梳理](./医学编码体系与互联资源全景梳理.md) | ICD、SNOMED、OMIM、UMLS、ORPHA 等编码体系说明，及跨体系映射路径与示例数据 |
+| [RD 相关公共数据库资源](./RD相关公共数据库资源.md) | 病例 benchmark、表型/疾病本体、基因变异库、文献知识源的示例数据与官方下载链接汇总 |
 
 ---
 
@@ -20,7 +21,7 @@
 
 1. **先建立全局图景** — [罕见病诊断技术发展阶段梳理](./罕见病诊断技术发展阶段梳理.md)
 2. **了解当前 SOTA 系统** — [相关研究](./相关研究.md) + [DeepRare 工具与参考链接](./DeepRare工具与参考链接.md)
-3. **补齐数据与知识底座** — [OMIM-Orphanet-DECIPHER 详细介绍](./OMIM-Orphanet-DECIPHER详细介绍.md)
+3. **补齐数据与知识底座** — [OMIM-Orphanet-DECIPHER 详细介绍](./OMIM-Orphanet-DECIPHER详细介绍.md) + [RD 相关公共数据库资源](./RD相关公共数据库资源.md)
 4. **打通编码与互操作** — [医学编码体系与互联资源全景梳理](./医学编码体系与互联资源全景梳理.md)
 
 ---
@@ -41,6 +42,7 @@
 | [Orphanet](https://www.orpha.net/) | 罕见病标准命名、ORPHA 编码与多维资源 |
 | [DECIPHER](https://www.deciphergenomics.org/) | 患者级基因型-表型共享与匹配 |
 | [HPO](https://hpo.jax.org/) | 人类表型本体 |
+| [RareBench / RareArena / PMC-Patients](./RD相关公共数据库资源.md) | 罕见病诊断 benchmark 与病例库 |
 | [UMLS / SNOMED / ICD](./医学编码体系与互联资源全景梳理.md) | 跨体系编码映射与临床互操作 |
 
 ---
@@ -54,7 +56,8 @@ AI4RareD/
 ├── 相关研究.md
 ├── DeepRare工具与参考链接.md
 ├── OMIM-Orphanet-DECIPHER详细介绍.md
-└── 医学编码体系与互联资源全景梳理.md
+├── 医学编码体系与互联资源全景梳理.md
+└── RD相关公共数据库资源.md
 ```
 
 ---
